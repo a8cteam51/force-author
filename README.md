@@ -25,7 +25,7 @@ For example, if you only want to set the default author when the post is publish
 ```
 function maybe_skip_set_default_author( $bool, $data ) {
 	if ( 'publish' !== $data['post_status'] ) {
-		return false;
+		return true;
 	}
 	
 	return $bool;
