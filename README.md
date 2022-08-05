@@ -7,7 +7,7 @@ This plugin gives you the ability to define which user should always be the auth
 
 The default author can be set under *Settings > Writing* in the admin.
 
-<img src="https://raw.github.com/a8cteam51/force-author/trunk/screenshot-1.png" />
+![Screen Shot](https://user-images.githubusercontent.com/8797898/183119175-9e6de0bd-92e1-4f24-a676-47ac8a39703f.png)
 
 ## Notes on functionality
 
